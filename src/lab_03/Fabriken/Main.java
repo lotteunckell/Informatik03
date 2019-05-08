@@ -1,7 +1,9 @@
-import Fabriken.DidadasFabrik;
-import Fabriken.EnkiFabrik;
-import Fabriken.Fabrik;
-import Fabriken.UmapFabrik;
+package lab_03.Fabriken;
+
+import lab_03.Fabriken.DidadasFabrik;
+import lab_03.Fabriken.EnkiFabrik;
+import lab_03.Fabriken.Fabrik;
+import lab_03.Fabriken.UmapFabrik;
 
 public class Main {
     static public void main(String[] args) {

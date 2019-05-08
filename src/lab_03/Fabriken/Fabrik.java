@@ -1,4 +1,4 @@
-package Fabriken;
+package lab_03.Fabriken;
 
 public interface Fabrik {
 

@@ -1,4 +1,4 @@
-package Schuhe;
+package lab_03.Fabriken.Schuhe;
 
 public abstract class Schuh {
     int size;

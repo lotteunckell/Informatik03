@@ -1,14 +1,14 @@
-package Fabriken;
+package lab_03.Fabriken;
 
-import Schuhe.SportSchuh;
-import Schuhe.Stiefel;
-import Schuhe.WanderSchuh;
+import lab_03.Fabriken.Schuhe.SportSchuh;
+import lab_03.Fabriken.Schuhe.Stiefel;
+import lab_03.Fabriken.Schuhe.WanderSchuh;
 
-public class EnkiFabrik implements Fabrik {
+public class UmapFabrik implements Fabrik {
     String firma;
 
-    public EnkiFabrik() {
-        firma = "Enki";
+    public UmapFabrik() {
+        firma = "Umap";
     }
 
     @Override
