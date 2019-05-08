@@ -1,8 +1,8 @@
 package lab_03.Fabriken;
 
-import lab_03.Fabriken.Schuhe.SportSchuh;
-import lab_03.Fabriken.Schuhe.Stiefel;
-import lab_03.Fabriken.Schuhe.WanderSchuh;
+import lab_03.Schuhe.SportSchuh;
+import lab_03.Schuhe.Stiefel;
+import lab_03.Schuhe.WanderSchuh;
 
 public class DidadasFabrik implements Fabrik {
     String firma;

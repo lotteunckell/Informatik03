@@ -1,4 +1,4 @@
-package lab_03.Fabriken;
+package lab_03;
 
 import lab_03.Fabriken.DidadasFabrik;
 import lab_03.Fabriken.EnkiFabrik;

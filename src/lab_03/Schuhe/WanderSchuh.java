@@ -1,4 +1,4 @@
-package lab_03.Fabriken.Schuhe;
+package lab_03.Schuhe;
 
 public class WanderSchuh extends Schuh {
 
