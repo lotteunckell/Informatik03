@@ -6,6 +6,6 @@ public class MountainbikeGearShift extends AbstractGearShift {
     }
 
     public String toString(){
-        return "Details MountainbikeGearShift: Number of gears: " + this.getGears();
+        return "Details MountainbikeGearShift\n        Number of gears: " + this.getGears();
     }
 }

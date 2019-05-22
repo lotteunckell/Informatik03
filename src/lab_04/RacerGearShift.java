@@ -6,6 +6,6 @@ public class RacerGearShift extends AbstractGearShift {
     }
 
     public String toString(){
-        return "Details RacerGearShift: Number of gears: " + this.getGears();
+        return "Details RacerGearShift\n        Number of gears: " + this.getGears();
     }
 }

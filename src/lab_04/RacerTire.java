@@ -6,6 +6,6 @@ public class RacerTire extends AbstractTire {
     }
 
     public String toString(){
-        return "Details RacerTire: Size: " + this.getSize() + " Strength: " + this.getStrength();
+        return "Details RacerTire\n        Size: " + this.getSize() + "\n        Strength: " + this.getStrength();
     }
 }

@@ -6,6 +6,6 @@ public class MountainbikeFrame extends AbstractFrame  {
     }
 
     public String toString() {
-        return "Details MpuntainbikeFrame: Weight: " + this.getWeight() + " Color: " + this.getColor();
+        return "Details MountainbikeFrame\n        Weight: " + this.getWeight() + "\n        Color: " + this.getColor();
     }
 }

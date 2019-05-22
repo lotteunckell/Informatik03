@@ -8,6 +8,6 @@ public class Racer extends AbstractBike {
 
     @Override
     public String toString() {
-        return "Details Racer:\n" + tire + "\n" + frame + "\n" + gearShift;
+        return "Details Racer:\n     " + tire + "\n     " + frame + "\n     " + gearShift;
     }
 }

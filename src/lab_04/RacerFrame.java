@@ -6,6 +6,6 @@ public class RacerFrame extends AbstractFrame {
     }
 
     public String toString() {
-        return "Details RacerFrame: Weight: " + this.getWeight() + " Color: " + this.getColor();
+        return "Details RacerFrame\n        Weight: " + this.getWeight() + "\n        Color: " + this.getColor();
     }
 }
