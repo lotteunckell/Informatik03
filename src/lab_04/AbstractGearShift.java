@@ -1,6 +1,6 @@
 package lab_04;
 
-public abstract class AbstractGearShift {
+public abstract class AbstractGearShift implements IGearShfit {
     private int gears;
 
     public AbstractGearShift(int gears) {
