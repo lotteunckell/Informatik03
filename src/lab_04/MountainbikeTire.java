@@ -6,6 +6,6 @@ public class MountainbikeTire extends AbstractTire {
     }
 
     public String toString(){
-        return "Details MountainbikeTire: Size: " + this.getSize() + "Strength: " + this.getStrength();
+        return "Details MountainbikeTire: Size: " + this.getSize() + " Strength: " + this.getStrength();
     }
 }

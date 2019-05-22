@@ -1,9 +1,11 @@
 package lab_04;
 
 public class RacerBuilder extends BikeBuilder {
+
     @Override
-    public AbstractBike buildBike() {
-        return new Racer();
+    public AbstractBike buildBike(ITire tire, IFrame frame, IGearShfit gearShift) {
+       bike = new Racer(tire, frame, gearShift);
+       return bike;
     }
 
     @Override
@@ -19,5 +21,10 @@ public class RacerBuilder extends BikeBuilder {
     @Override
     public IGearShfit buildGearShift(int gears) {
         return new RacerGearShift(gears);
+    }
+
+    @Override
+    public AbstractBike getResult() {
+        return bike;
     }
 }
