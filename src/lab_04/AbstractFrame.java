@@ -24,4 +24,6 @@ public abstract class AbstractFrame implements IFrame{
     public void setColor(String color) {
         this.color = color;
     }
+
+    public abstract String toString();
 }

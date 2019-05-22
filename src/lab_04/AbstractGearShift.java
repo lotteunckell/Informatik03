@@ -14,4 +14,6 @@ public abstract class AbstractGearShift {
     public void setGears(int gears) {
         this.gears = gears;
     }
+
+    public abstract String toString();
 }

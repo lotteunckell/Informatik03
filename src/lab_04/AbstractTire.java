@@ -24,5 +24,5 @@ public abstract class AbstractTire implements ITire{
     public void setStrength(int strength) {
         this.strength = strength;
     }
-
+    public abstract String toString();
 }
