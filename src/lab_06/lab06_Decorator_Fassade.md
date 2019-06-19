@@ -8,4 +8,4 @@ Modelliert diese Thematik mittels des "Decorator" Entwurfsmusters in einem Klass
 
 ## 6.2 Fassade
 
-Nun wollen Kunden dieses Eis auch Kaufen. Baut einen Eisverkäufer als Fassade ein, damit die Kunden nicht Kreuz und Quer über das Eis herfallen. Der Dekoriere kann hier auch weggelassen werden.
+Nun wollen Kunden dieses Eis auch Kaufen. Baut einen Eisverkäufer als Fassade ein, damit die Kunden nicht Kreuz und Quer über das Eis herfallen. Der Dekorierer kann hier auch weggelassen werden.
