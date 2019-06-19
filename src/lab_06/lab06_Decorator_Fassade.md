@@ -39,4 +39,3 @@ Nun wollen Kunden dieses Eis auch Kaufen. Baut einen Eisverkäufer als Fassade e
   
 
 - Berechnung mit `double` bereitete Kopfzerbrechen in der Implementierung
-
