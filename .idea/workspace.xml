@@ -2,62 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238e74d8-ff18-457d-8c8d-35a58a87c055" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/salomon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Eis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Kugeleis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Mandelsplitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Sahne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Schokostreusel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Softeis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Wassereis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisPremium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/META-INF/Informatik03.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/DidadasFabrik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/DidadasFabrik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/EnkiFabrik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/EnkiFabrik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/Fabrik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/Fabrik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/UmapFabrik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Fabriken/UmapFabrik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/Schuh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/Schuh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/SportSchuh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/SportSchuh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/Stiefel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/Stiefel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/WanderSchuh.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_03/Schuhe/WanderSchuh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractGearShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractGearShift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractTire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/AbstractTire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/BikeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/BikeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/BikeDirector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/BikeDirector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/IFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/IFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/IGearShfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/IGearShfit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/ITire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/ITire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/Mountainbike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/Mountainbike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeGearShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeGearShift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeTire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/MountainbikeTire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/Racer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/Racer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerGearShift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerGearShift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerTire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_04/RacerTire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/IPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/IPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/PayPalAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/PayPalAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/PayPalPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/PayPalPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/WebshopPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_adapter/WebshopPayment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/AbspielDaten.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/AbspielDaten.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/Abspielgeraet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/Abspielgeraet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/CDSpieler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/CDSpieler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/IAbspielgeraetImplementierer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/IAbspielgeraetImplementierer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/KasettenSpieler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/KasettenSpieler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/Listenabspielgeraet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/Listenabspielgeraet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Informatik03/lab_05/aufgabe_bruecke/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Kugeleis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisStandard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/lab06_Decorator_Fassade.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/lab06_Decorator_Fassade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_06/lab06_Decorator_Fassade.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_06/lab06_Decorator_Fassade.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,29 +21,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Wassereis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="216">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Kugeleis.java">
+        <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisPremium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisStandard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="e#104#105#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
@@ -195,8 +148,9 @@
         <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Mandelsplitter.java" />
         <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Schokostreusel.java" />
         <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Kugeleis.java" />
-        <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java" />
         <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Wassereis.java" />
+        <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisPremium.java" />
+        <option value="$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java" />
       </list>
     </option>
   </component>
@@ -352,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11327000" />
+    <option name="totallyTimeSpent" value="11492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="23" width="1037" height="962" extended-state="0" />
@@ -772,10 +726,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Kugeleis.java">
+    <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisStandard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#104#105#0" expanded="true" />
             <element signature="e#125#126#0" expanded="true" />
@@ -783,17 +737,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Wassereis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/KugeleisPremium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_06/aufgabe_dekorierer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>

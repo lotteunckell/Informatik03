@@ -1,8 +1,8 @@
 package lab_06.aufgabe_dekorierer;
 
-public class Kugeleis implements Eis {
+public class KugeleisPremium implements Eis {
 
   public double calcPrice() {
-    return 1.00;
+    return 1.50;
   }
 }
