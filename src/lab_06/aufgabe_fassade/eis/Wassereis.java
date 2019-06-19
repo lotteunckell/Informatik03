@@ -1,8 +1,8 @@
 package lab_06.aufgabe_fassade.eis;
 
-public class Wassereis {
+class Wassereis {
 
-  public double calcPrice() {
+  double calcPrice() {
     return 0.8;
   }
 }

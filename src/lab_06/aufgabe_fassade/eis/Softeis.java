@@ -1,8 +1,8 @@
 package lab_06.aufgabe_fassade.eis;
 
-public class Softeis {
+class Softeis {
 
-  public double calcPrice() {
+  double calcPrice() {
     return 1.60;
   }
 }

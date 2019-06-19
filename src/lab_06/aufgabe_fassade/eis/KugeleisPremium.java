@@ -1,8 +1,8 @@
 package lab_06.aufgabe_fassade.eis;
 
-public class KugeleisPremium{
+class KugeleisPremium{
 
-  public double calcPrice() {
+  double calcPrice() {
     return 1.50;
   }
 }
