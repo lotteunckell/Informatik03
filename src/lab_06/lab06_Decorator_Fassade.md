@@ -36,7 +36,6 @@ Nun wollen Kunden dieses Eis auch Kaufen. Baut einen Eisverkäufer als Fassade e
   new Mandelsplitter(new KugeleisStandard()).calcPrice()
   ```
 
-  
+### Schwierigkeiten / Überlegungen beim Implementieren
 
 - Berechnung mit `double` bereitete Kopfzerbrechen in der Implementierung
-
